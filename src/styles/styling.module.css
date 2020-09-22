@@ -1,0 +1,87 @@
+.main {
+  background: rgb(218, 211, 186);
+}
+.li {
+  margin-left: 60px;
+  margin-right: auto;
+  text-align: center;
+  align-content: center;
+  float: left;
+}
+.li:hover {
+  background: chocolate;
+}
+.linkStyle {
+  text-decoration: none;
+  font-size: 25 px;
+  color: rgb(17, 221, 10);
+}
+.final {
+  margin: 12px;
+  padding: 5px;
+}
+.center {
+  text-align: center;
+  align-content: center;
+}
+.bottomMargin {
+  margin-bottom: 10px;
+}
+.tittle {
+  font-size: 40px;
+  color: rgb(236, 149, 17);
+}
+.tittle:hover {
+  background: rgb(145, 145, 150);
+}
+.subtittle {
+  font-size: 15px;
+  font-style: italic;
+  color: darkblue;
+  margin-bottom: 25px;
+}
+.paddingParagraph {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif,
+    "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 10px;
+}
+.paddingParagraph:hover {
+  box-shadow: 0 0 0 3px white, 0 3px 8px 3px rgb(165, 119, 119);
+}
+.setSize {
+  height: 30px;
+  width: 499px;
+}
+.boxing {
+  text-align: center;
+  align-content: flex-end;
+  height: 50px;
+  margin-top: 10px;
+  background-color: brown;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.imageStyle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px rgb(167, 89, 89), 0 3px 8px 3px rgb(145, 139, 139);
+  margin-left: 41%;
+}
+.education {
+  height: 300px;
+  text-align: center;
+  border-radius: 10px;
+}
+.education:hover {
+  box-shadow: 0 0 0 2px rgb(167, 89, 89), 0 3px 8px 3px rgb(126, 92, 92);
+}
+.findMe {
+  text-align: center;
+}
